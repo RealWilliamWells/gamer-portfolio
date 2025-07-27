@@ -9,6 +9,8 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
+
+  assetPrefix: 'https://wwells.net/'
 };
 
 export default nextConfig;
